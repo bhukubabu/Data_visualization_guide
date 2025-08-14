@@ -64,7 +64,7 @@ Just like a growth/product intern role, the challenge here was:
 
 ### 1️⃣ Selling Price vs Year
 
-![Price vs Year](images/download%(1).png)
+![Price vs Year](images/download%20(1).png)
 Shows depreciation patterns and peaks for specific years.
 
 ### 2️⃣ Price by Fuel & Transmission
