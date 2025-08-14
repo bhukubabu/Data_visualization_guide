@@ -69,7 +69,7 @@ Shows depreciation patterns and peaks for specific years.
 
 ### 2️⃣ Price by Fuel & Transmission
 
-![Fuel Price](images/price_by_fuel.png) | ![Transmission Price](images/price_by_transmission.png)
+![Fuel Price](images/download.png) | ![Transmission Price](images/price_by_transmission.png)
 
 ### 3️⃣ Owner Segmentation
 
