@@ -72,7 +72,7 @@ Each query result is visualized with charts or tables, followed by **insightful 
 - Cars with **above-average mileage** are concentrated in compact & budget-friendly models.  
 
 ---
-<img width="1497" height="1218" alt="download (2)" src="https://github.com/user-attachments/assets/7fabde51-ea8c-4f95-9aff-8f81fa8d45b0" />
+<img width="1300" height="1000" alt="download (2)" src="https://github.com/user-attachments/assets/7fabde51-ea8c-4f95-9aff-8f81fa8d45b0" />
 
 ## 🌟 Why This Project?  
 
