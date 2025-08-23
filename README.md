@@ -91,5 +91,5 @@ This project highlights my ability to:
 ---
 
 ## 👤 Author  
-**[Your Name](https://github.com/your-username)**  
-📧 your.email@example.com  
+**[Jaya Bhukta](https://github.com/bhukubabu)**  
+📧 bhuktajaya@gmail.com  
